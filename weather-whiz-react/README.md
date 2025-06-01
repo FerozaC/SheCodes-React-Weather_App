@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-**[Click here to view the live app on Netlify](https://your-netlify-link.netlify.app)**  
+**[Click here to view the live app on Netlify](https://weather-whiz-react.netlify.app/)**  
 
 ## 🛠️ Features
 
